@@ -8,6 +8,6 @@ Evaluate SPINE wordembeddings using
 6. other wordembeddings
 SPINE: https://github.com/harsh19/SPINE
 
-read Rroject_report before running expriments.
+read Rroject_report.pdf before running expriments.
 
 dataset: https://www.kaggle.com/qiushiwang/datasets?scroll=true
