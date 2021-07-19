@@ -7,5 +7,7 @@ Evaluate SPINE wordembeddings using
 5. image wordembeddings
 6. other wordembeddings
 SPINE: https://github.com/harsh19/SPINE
-!read Rroject_report before running expriments.
-!dataset: https://www.kaggle.com/qiushiwang/datasets?scroll=true
+
+read Rroject_report before running expriments.
+
+dataset: https://www.kaggle.com/qiushiwang/datasets?scroll=true
